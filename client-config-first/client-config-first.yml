@@ -1,0 +1,6 @@
+server:
+  port: 8763
+
+test:
+  name: John Doe
+  phone: 123-456-7893
