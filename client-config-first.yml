@@ -2,5 +2,5 @@ server:
   port: 8763
 
 test:
-  name: John Doe
+  name: Mark Zuckerberg
   phone: 123-456-7893
